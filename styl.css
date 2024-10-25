@@ -1,2 +1,19 @@
 body{background-color: aquamarine;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkblue;}
+
+h1{text-align: center;}
+
+p{width: 600px ;
+text-align: justify;
+margin: auto; }
+
+ img{float: right;
+    margin-right: auto; }
+
+nav{line-height: 2;
+    margin-left: 50px;}
+
+a:link{color: black;text-decoration: none;}
+a:visited{color: blueviolet;text-decoration: none;}
+a:hover{color: cadetblue;text-decoration: underline;}
